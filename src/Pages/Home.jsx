@@ -1,5 +1,5 @@
 import Draggable from "react-draggable";
-import Header from "../components/Header";
+import Header from "../Components/Header";
 
 const Home = () => {
   return (
